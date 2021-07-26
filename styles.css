@@ -1,0 +1,107 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.nav-1{
+  background-color: black;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  width: 100%;
+  height: 90px;
+}
+.add{
+	color: white;
+}
+.search{
+	width: 60%;
+	height: 40px;
+	background-color: white;
+	text-align: center;
+}
+.acc{
+	color: white;
+}
+.ret{
+	color: white;
+}
+.crt{
+	color: white;
+}
+.nav-2
+{
+	
+	background-color: #232F3E;
+	height: 40px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content:space-between;
+}
+.items{
+	color: white;
+	padding-right: 15px;
+	font-size: 20px;
+	display: flex;
+}
+.nav-items{
+	display: flex;
+}
+.slides
+{
+	background-color: #EAEDED;
+	display: flex;
+	width: 100%;
+	height: 495px;	
+	justify-content: space-evenly;
+}
+.f1
+{
+	padding:15px;
+	margin: 20px;
+	background-color:white;
+   width:25%;
+	height: 420px;
+}
+.f1 img
+{
+	margin-left:27px;
+	margin-top: 10px;
+}
+
+.images1,.images2
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+.images1 img
+{
+	margin-top: 20px;
+	margin-left: 0px;
+}
+
+.images2 img
+{
+    margin-top: 30px;
+    margin-left: 0px;
+}
+.images3{
+	display: flex;
+}
+.images3 img
+{
+	margin-left:35px;
+	margin-top: 10px;
+}
+h1,h3{
+	display: inline;
+}
+h3{
+	color: skyblue;
+}
+.img4 img{
+	width: 100%;
+	margin-top: 20px;
+}
